@@ -1,0 +1,77 @@
+body{
+    background-color:lightblue;
+}
+.top1 h1{
+    text-align: center;
+    color:#36454F;
+}
+.top1 h3{
+    text-align: center;
+    color:#36454F;
+}
+.top2 a{
+    height: 28px;
+    width: 458px;
+    background-color: #36454F;
+    text-align: center;
+    display: inline-block;
+    color: lightblue;
+    font-size: x-large;
+    text-decoration-line: none;
+}
+.top3 h1{
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 50px;
+    color: #36454F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top3 h3{
+    color: #36454F;
+    font-size: larger;
+    width: 400px;
+    padding-left: 50px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-bottom: 175px; 
+}
+.top3 {
+    background-size: contain;
+    background-color: rgb(251, 255, 135);
+    margin-right: 0px;
+}
+.top3 label{
+    color: #36454F;
+    font-size: larger;
+    width: 400px;
+    padding-left: 50px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px; 
+}
+.top3 input{
+    margin-left: 50px;
+    width: 350px;
+    height: 30px;
+    font-size: large;
+}
+.top3 h4{
+    color: #36454F;
+    font-size: xx-large;
+    width: 100px;
+    padding-left: 50px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px; 
+    text-align: center;
+}
+.top3 h5{
+    color: #36454F;
+    font-size: larger;
+    height: 20px;
+    padding-left: 50px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-bottom: 10px; 
+    text-align: center;
+}
